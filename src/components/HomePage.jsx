@@ -29,7 +29,7 @@ const HomePage = () => (
         <div className='directory-menu'>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>WOMEN</h1>
+                    <h1 className='title'>WOMENS</h1>
                     <span className='subtitle'>SHOW NOW</span>
                 </div>
             </div>
@@ -37,7 +37,7 @@ const HomePage = () => (
         <div className='directory-menu'>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>MEN</h1>
+                    <h1 className='title'>MENS</h1>
                     <span className='subtitle'>SHOW NOW</span>
                 </div>
             </div>
