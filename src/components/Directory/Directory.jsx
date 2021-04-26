@@ -46,7 +46,7 @@ class Directory extends Component {
                     <MenuItem key={id} title={title} imageUrl={imageUrl} size={size}/>
                 ))}
             </div>
-        )
+        );
     }
 }
 
